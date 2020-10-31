@@ -1,5 +1,5 @@
 {
-	"name": "@baltedewit/emberplus-connection",
+	"name": "@balte/emberplus-connection",
 	"version": "0.0.3",
 	"description": "Javascript implementation of the Ember+ automation protocol",
 	"engines": {
